@@ -1,0 +1,7 @@
+D:\Đồ án 1\lam thue\BanSach\BanSach\obj\Debug\net7.0-windows\BanSach.csproj.AssemblyReference.cache
+D:\Đồ án 1\lam thue\BanSach\BanSach\obj\Debug\net7.0-windows\BanSach.TacGiaGui.resources
+D:\Đồ án 1\lam thue\BanSach\BanSach\obj\Debug\net7.0-windows\BanSach.csproj.GenerateResource.cache
+D:\Đồ án 1\lam thue\BanSach\BanSach\obj\Debug\net7.0-windows\BanSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án 1\lam thue\BanSach\BanSach\obj\Debug\net7.0-windows\BanSach.AssemblyInfoInputs.cache
+D:\Đồ án 1\lam thue\BanSach\BanSach\obj\Debug\net7.0-windows\BanSach.AssemblyInfo.cs
+D:\Đồ án 1\lam thue\BanSach\BanSach\obj\Debug\net7.0-windows\BanSach.csproj.CoreCompileInputs.cache
